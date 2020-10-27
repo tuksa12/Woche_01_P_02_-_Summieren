@@ -1,6 +1,8 @@
 package pgdp.intro;
 
-public class Sum extends MiniJava {
+import static pgdp.MiniJava.*;
+
+public class Sum {
 
 	public static void main(String[] args) {
 
